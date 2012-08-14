@@ -1,0 +1,1 @@
+{"testAgainst":"Server","testName":"Test","name":["YUI"],"context":["#"],"contextType":["GET"],"contextPostData":[""],"encodingType":["UTF-8"],"dbPerName":[""],"queryType":["Select Statement"],"query":[""],"noOfUsers":2,"rampUpPeriod":2,"loopCount":2}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="104" lt="104" ts="1344856721229" s="false" lb="HTML5Widget_FrameWork" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="291"/>
+<httpSample t="5" lt="5" ts="1344856721354" s="false" lb="HTML5Widget_FrameWork" rc="404" rm="Not Found" tn="Thread Group 1-1" dt="text" by="291"/>
+<httpSample t="4" lt="4" ts="1344856722166" s="false" lb="HTML5Widget_FrameWork" rc="404" rm="Not Found" tn="Thread Group 1-2" dt="text" by="295"/>
+<httpSample t="4" lt="4" ts="1344856722182" s="false" lb="HTML5Widget_FrameWork" rc="404" rm="Not Found" tn="Thread Group 1-2" dt="text" by="291"/>
+
+</testResults>
